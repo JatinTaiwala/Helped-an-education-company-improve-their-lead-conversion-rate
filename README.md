@@ -1,4 +1,4 @@
-# Lead-scoring-case-study-Logistic_regression
+# Helped an education company, improve their lead conversion rate
 
 ## Overview
 This project was undertaken for X Education, an online education company that sells courses to industry professionals. The goal was to build a logistic regression model to assign a lead score between 0 and 100 to each lead, indicating their likelihood to convert into a paying customer. The objective was to identify the most promising leads (i.e., hot leads), allowing the sales team to focus on communicating with potential customers and increasing the lead conversion rate to 80%.
